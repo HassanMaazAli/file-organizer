@@ -1,0 +1,2 @@
+# Phase 1 uses only the Python standard library.
+# PyInstaller will be added in the packaging phase.
